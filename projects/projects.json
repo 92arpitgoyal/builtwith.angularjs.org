@@ -2,6 +2,22 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Townscript",
+    "thumb": "townscript/thumb.png",
+    "desc": "India's largest growing DIY event ticketing platform",
+    "url": "https://www.townscript.com",
+    "info": "https://www.townscript.com/how-it-works",
+    "submitter": "92arpitgoyal",
+    "submissionDate": "2015-07-21",
+    "tags": [
+      "DIY", 
+      "Events", 
+      "Ticketing", 
+      "Platform",
+      "Online Event Ticketing"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
